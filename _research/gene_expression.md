@@ -1,9 +1,10 @@
 ---
 title: "Conflict preemption"
-layout: single-portfolio
+# layout: single-portfolio
 excerpt: "<img src='/images/profile.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "research/epr.png"
+  og_image: "images/profile.png"
 ---
+content content content about research 1
