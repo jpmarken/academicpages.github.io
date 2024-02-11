@@ -6,18 +6,20 @@ author_profile: true
 header:
   og_image: "images/profile.png"
 ---
-My main area of focus is <b>soil synthetic biology</b>, with an emphasis on engineering the soil microbiome. I am particularly interested in addressing the unique challenges associated with engineering microbes in environmental settings, such as:
+One of the central challenges associated with translating synthetic biology advances in the laboratory into real-world applications is the fact that the environmental conditions that cells experience in a deployment context are different from those in the laboratory. This is particularly true when addressing sustainability applications, where many will require the deployment of microbes into diverse environments such as agricultural soils, living materials, and water-treatment plants.
 
-- How do we design genetic circuits to perform consistently across different host backgrounds and physiological states?
-- How do we noninvasively measure microbial activity in the soil?
-- How do we reliably deliver genetic circuits into the soil microbiome?
-- How do we ensure reliable and safe performance in systems that will be inaccessible after deployment?
+The goal of my research program is to discover and develop new engineering principles to help develop a rigorous foundation for successfully translating synthetic biology advances in the laboratory into their deployment environments. Major research questions in this direction include:
 
-<!-- I address these questions from a multi-faceted approach that merges both theoretical and experimental techniques to conduct both discovery-based and engineering-driven research.
- -->
+- How do environmental conditions affect microbial physiology, and thereby affect the performance of genetic circuits?
+- How do we design genetic circuits to perform consistently across different strain backgrounds and physiological states?
+- How do we monitor microbial activity in difficult-to-access environments like the soil?
+- How do we ensure the reliable and safe performance of engineered microbial systems that might be inaccessible after deployment?
 
-## Why engineer the soil microbiome?
-The soil is a vast and complex ecosystem that plays a major role in global biogeochemical processes and is the literal foundation of our own human society. Within this environment, microbial metabolism is the major bridge that links the biotic and abiotic aspects of the soil ecosystem together— whether one wants to understand how global nutrient cycling processes affect greenhouse gas production, wants to remediate environments contaminated by toxins, or wants to increase the resilience and yield of crop plants to better feed our growing population, microbes will be a key player in the solutions to any of these challenges. 
+I address these questions using an interdisciplinary approach that merges both theoretical and experimental techniques. 
+
+
+<!-- ## Why engineer the soil microbiome?
+The soil is a vast and complex ecosystem that plays a major role in global biogeochemical processes and is the literal foundation of our own human society. Within this environment, microbial metabolism is the major bridge that links the biotic and abiotic aspects of the soil ecosystem together— whether one wants to understand how global nutrient cycling processes affect greenhouse gas production, wants to remediate environments contaminated by toxins, or wants to increase the resilience and yield of crop plants to better feed our growing population, microbes will be a key player in the solutions to any of these challenges.  -->
 
 <!-- {% include base_path %}
 
