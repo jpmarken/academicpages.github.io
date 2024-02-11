@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "John Marken - Caltech"
+title: "John Marken, PhD"
+# excerpt: "John Marken - Caltech"
 author_profile: true
 redirect_from: 
   - /about/
