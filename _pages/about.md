@@ -10,6 +10,8 @@ redirect_from:
 
 I am a Resnick Sustainability Institute postdoctoral scholar at Caltech supervised by [Bruce Hay](https://haylab.caltech.edu/). My work aims to develop a rigorous foundation for translating synthetic biology advances beyond the laboratory and into application contexts, with a particular focus on sustainability applications.
 
+<img src='/images/ResearchProgram.png' width='500'>
+
 I approach this goal from both the engineering angle, by designing architectures for robust genetic circuit performance and developing theoretical frameworks for analyzing biomolecular systems, and from the scientific angle, by studying fundamental questions about how microbial physiology impacts the behavior of genetic circuits. Please see the [Research](/research/) page for more details.
 
 I also work with the Caltech Center for Science, Society, and Public Policy to advocate for reform in the U.S. microbial biotechnology regulatory system to better promote innovation and safety in the synthetic biology industry. Please see the [Public Policy](/policy/) page for more details.
