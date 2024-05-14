@@ -6,5 +6,5 @@ excerpt: 'Unlike mature neurons, <i>Xenopus laevis</i> neural progenitors do not
 pdf: '/files/pdf/papers/MarkovianEntropy.pdf'
 doi: 'https://doi.org/10.1371/journal.pone.0168342'
 citation: '<b>Marken JP</b> * , Halleran AD * , Rahman A, Odorizzi L, LeFew MC, Golino CA, <u>Kemper P</u>, <u>Saha MS</u>. <i>PLoS One</i>, 2016 Dec 15.'
-image: '/images/ResearchProgram.png' 
+image: '/images/MarkovianEntropy.png' 
 ---
