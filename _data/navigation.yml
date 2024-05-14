@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Public Policy"
+    url: /policy/    
+
   - title: "Publications"
     url: /publications/
-
-  # - title: "Teaching"
-  #   url: /teaching/    
     
   # - title: "CV"
   #   url: /cv/
 
-  - title: "Contact"
+  - title: "CV and Contact"
     url: /contact/
