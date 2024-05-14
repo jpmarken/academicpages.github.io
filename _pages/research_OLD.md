@@ -16,3 +16,14 @@ The goal of my research program is to discover and develop new engineering princ
 - How do we ensure the reliable and safe performance of engineered microbial systems that might be inaccessible after deployment?
 
 I address these questions using an interdisciplinary approach that merges both theoretical and experimental techniques. 
+
+
+<!-- ## Why engineer the soil microbiome?
+The soil is a vast and complex ecosystem that plays a major role in global biogeochemical processes and is the literal foundation of our own human society. Within this environment, microbial metabolism is the major bridge that links the biotic and abiotic aspects of the soil ecosystem together— whether one wants to understand how global nutrient cycling processes affect greenhouse gas production, wants to remediate environments contaminated by toxins, or wants to increase the resilience and yield of crop plants to better feed our growing population, microbes will be a key player in the solutions to any of these challenges.  -->
+
+<!-- {% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}
+ -->

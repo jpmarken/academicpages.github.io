@@ -6,6 +6,6 @@ excerpt: 'Engineered microbes have great potential for addressing the many susta
 pdf: '/files/pdf/papers/FactoryFarmField.pdf'
 doi: 'https://doi.org/10.1038/s41579-023-01007-9'
 citation: 'Jones EM *, <b>Marken JP</b> *, <u>Silver PA</u>. <i>Nature Reviews Microbiology</i>, 2024 Jan 22.'
-image: 'FactoryFarmField.png'
+image: '/images/FactoryFarmField.png'
 ---
 
