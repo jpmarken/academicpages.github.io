@@ -6,4 +6,5 @@ excerpt: "When synthetic biologists design and analyze genetic circuits, the mat
 pdf: '/files/pdf/papers/StructuralAnalysis.pdf'
 doi: 'https://doi.org/10.1101/2020.02.18.953620'
 citation: '<b><u>Marken JP</u></b> * , <u>Xiao F</u> * , Murray RM. <i>bioRxiv Preprint</i>, 2020 Feb 19.'
+image: 'StructuralAnalysis.png'
 ---

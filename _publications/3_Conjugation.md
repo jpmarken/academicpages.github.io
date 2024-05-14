@@ -6,5 +6,6 @@ excerpt: 'By encoding messages into mobile DNA elements, one can massively scale
 pdf: '/files/pdf/papers/Conjugation-Final.pdf'
 doi: 'https://doi.org/10.1038/s41467-023-37788-z'
 citation: '<b><u>Marken JP</u></b>, Murray RM. <i>Nature Communications</i>, 2023 Apr 24.'
+image: 'Conjugation.png'
 ---
 
