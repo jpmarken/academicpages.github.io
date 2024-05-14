@@ -52,6 +52,11 @@
       <p>{{ post.citation }}</p>
     {% endif %}
 
+    <!-- THIS BLOCK IS ORIGINAL -->
+    {% if post.image %}
+      <p align='center'>{{ post.image }}</p>
+    {% endif %}
+
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt }}
     {% if post.doi %}
