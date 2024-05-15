@@ -12,4 +12,4 @@ I have been fortunate to work with excellent educators at Caltech and William an
 
 During the 2015-2016 academic year, I and Andy Halleran jointly designed the first course on synthetic biology to be taught at the College of William and Mary, under the supervision of professor Margaret Saha. This course introduced the fundamental concepts of synthetic biology and principles of gene expression to undergraduates through guided reading and discussion of research papers. The reading list for the course can be found [here (2016)](/files/pdf/SynBioReadings2016.pdf) and [here (2017)](/files/pdf/SynBioReadings2017.pdf).
 
-For more details on my teaching experiences, please see my [CV](/contact/).
+For more details on my other teaching experiences, please see my [CV](/contact/).
