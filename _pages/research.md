@@ -17,6 +17,8 @@ The goal of my research program is to discover and develop new engineering princ
 
 I address these questions using an interdisciplinary approach that merges both theoretical and experimental techniques. 
 
+edit
+
 {% include base_path %}
 
 {% assign ordered_pages = site.research | sort:"order_number" %}
