@@ -6,11 +6,11 @@ main:
   - title: "Public Policy"
     url: /policy/    
 
-  - title: "Publications"
-    url: /publications/
-    
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Publications"
+    url: /publications/
 
   - title: "CV and Contact"
     url: /contact/
