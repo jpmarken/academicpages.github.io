@@ -1,5 +1,5 @@
 ---
-title: "Tool Development for the Soil Microbiome"
+title: "Studying and Engineering the Rhizosphere"
 # layout: single-portfolio
 excerpt: "<img src='/images/profile.png' alt=''>"
 collection: research
