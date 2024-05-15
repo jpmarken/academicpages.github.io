@@ -14,7 +14,7 @@ The goal of my research program is to uncover the principles by which environmen
 <img src='/images/EnvPhysBehavior.png' width='600'>
 </p>
 
-My current projects falls under three main categories: experimental work studying the principles of gene expression behavior and controllability under different physiological states, theoretical work developing new ways to analyze biomolecular system behavior, and application-driven work developing methods to better understand and engineer the rhizosphere microbiome. Please find more details on each of these areas below.
+My current projects falls under three main categories: experimental work studying the principles of microbial gene expression under different physiological states, theoretical work developing new ways to analyze biomolecular system behavior, and application-driven work developing methods to better understand and engineer the rhizosphere microbiome. More details on each of these areas can be found below.
 
 <nbsp>
 

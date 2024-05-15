@@ -1,10 +1,10 @@
 ---
 title: "Genetic Circuits for Variable Environments"
 # layout: single-portfolio
-excerpt: "<img src='/images/profile.png' alt=''>"
+excerpt: "<img src='/images/Physiology_Splash.png' alt=''>"
 collection: research
 order_number: 10
 header: 
-  og_image: "images/profile.png"
+  og_image: "images/Physiology_Splash.png"
 ---
-content content content about research 3.
+lorem ipsum.

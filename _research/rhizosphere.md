@@ -1,10 +1,10 @@
 ---
 title: "Studying and Engineering the Rhizosphere"
 # layout: single-portfolio
-excerpt: "<img src='/images/profile.png' alt=''>"
+excerpt: "<img src='/images/Rhizo_Splash.png' alt=''>"
 collection: research
 order_number: 30
 header: 
-  og_image: "images/profile.png"
+  og_image: "images/Rhizo_Splash.png"
 ---
-content content content about research 2.
+Lorem ipsum.

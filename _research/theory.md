@@ -1,10 +1,10 @@
 ---
 title: "Theory for Biomolecular Systems"
 # layout: single-portfolio
-excerpt: "<img src='/images/profile.png' alt=''>"
+excerpt: "<img src='/images/Theory_Splash.png' alt=''>"
 collection: research
 order_number: 20
 header: 
-  og_image: "images/profile.png"
+  og_image: "images/Theory_Splash.png"
 ---
-content content content about research 1
+Lorem ipsum.
