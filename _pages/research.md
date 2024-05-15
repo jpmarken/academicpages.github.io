@@ -16,3 +16,9 @@ The goal of my research program is to discover and develop new engineering princ
 - How do we ensure the reliable and safe performance of engineered microbial systems that might be inaccessible after deployment?
 
 I address these questions using an interdisciplinary approach that merges both theoretical and experimental techniques. 
+
+{% include base_path %}
+
+{% assign ordered_pages = site.research | sort:"order_number" %}
+
+{% for post in ordered_pages %} {% include archive-single.html type="grid" %} {% endfor %}
