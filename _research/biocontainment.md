@@ -1,7 +1,7 @@
 ---
-title: "Conflict preemption 2"
+title: "Research 40"
 # layout: single-portfolio
-excerpt: "<img src='/images/profile.png' alt=''>"
+excerpt: "<img src='/images/FactoryFarmField.png' alt=''>"
 collection: research
 order_number: 40
 header: 
