@@ -83,11 +83,11 @@ author:
   name             : "John Marken"
   avatar           : "Marken_photo_square.png"
   bio              : "Postdoc in Bioengineering, Caltech"
-  location         : "Pasadena, CA"
+  location         : "Pasadena, CA, USA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=GVHMq88AAAAJ&hl=en"
-  email            :
+  email            : "https://jpmarken.github.io/contact/"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
